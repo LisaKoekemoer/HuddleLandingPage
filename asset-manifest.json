@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/HuddleLandingPage/static/css/main.4ba3f79b.css",
+    "main.js": "/HuddleLandingPage/static/js/main.eb8449c9.js",
+    "static/js/453.ae95e797.chunk.js": "/HuddleLandingPage/static/js/453.ae95e797.chunk.js",
+    "static/media/illustration-flowing-conversation.svg": "/HuddleLandingPage/static/media/illustration-flowing-conversation.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/HuddleLandingPage/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/illustration-grow-together.svg": "/HuddleLandingPage/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/footer-logo.svg": "/HuddleLandingPage/static/media/footer-logo.b775b50ccd87e8e6bf5d3fb8294a7dfc.svg",
+    "static/media/logo.svg": "/HuddleLandingPage/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/illustration-mockups.svg": "/HuddleLandingPage/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "static/media/bg-hero-desktop.svg": "/HuddleLandingPage/static/media/bg-hero-desktop.6f3681282137997079c4.svg",
+    "static/media/bg-hero-mobile.svg": "/HuddleLandingPage/static/media/bg-hero-mobile.fa71e99ae112550574bc.svg",
+    "index.html": "/HuddleLandingPage/index.html",
+    "static/media/icon-instagram.svg": "/HuddleLandingPage/static/media/icon-instagram.3369c24d57d3cc0cd20de69e5b6e61c6.svg",
+    "static/media/icon-twitter.svg": "/HuddleLandingPage/static/media/icon-twitter.3c01091a3cb94a9a00e975a074210aaa.svg",
+    "static/media/icon-facebook.svg": "/HuddleLandingPage/static/media/icon-facebook.ca81f221ef4f2e6e570cb41438666742.svg",
+    "static/media/icon-phone.svg": "/HuddleLandingPage/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/HuddleLandingPage/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/HuddleLandingPage/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "main.4ba3f79b.css.map": "/HuddleLandingPage/static/css/main.4ba3f79b.css.map",
+    "main.eb8449c9.js.map": "/HuddleLandingPage/static/js/main.eb8449c9.js.map",
+    "453.ae95e797.chunk.js.map": "/HuddleLandingPage/static/js/453.ae95e797.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba3f79b.css",
+    "static/js/main.eb8449c9.js"
+  ]
+}
